@@ -13,19 +13,18 @@ body{
     margin-top: 15px;
 }
 .list_a2{
-    text-decoration: none;
-    font-family: 'Rubik';
+ text-decoration: none;
+font-family: 'Rubik';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
 line-height: 21px;
-
 color: #FF6838;
 margin-left: 15px;
 }
 .list_a{
-    text-decoration: none;
-    font-family: 'Rubik';
+text-decoration: none;
+font-family: 'Rubik';
 font-style: normal;
 font-weight: 400;
 font-size: 18px;
@@ -107,7 +106,7 @@ background: #FF7A50;
 box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
 border-radius: 8px;
 display: flex;
-align-items:end;
+align-items:center;
 padding-top: 10px;
 padding-bottom: 10px;
 padding-left: 30px;
@@ -116,30 +115,18 @@ padding-left: 30px;
 font-weight: 400;
 font-size: 20px;
 color: #FFFFFF;
-margin-left: 10px;;
+margin-left: 10px;
 }
-/* .bigCart-2{
-    background: #786767;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
-    border-radius: 8px;
-    display: flex;
-    align-items:center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 30px;
+.burger{
+width: 44px;
+height: 44px;
 }
-.bigCart-3{
-    background: #786767;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.12);
-    border-radius: 8px;
-    display: flex;
-    align-items:center;
-} */
 /* ======================================================== */
 .chize{
 background: #ad9696;
 border-radius: 12px;
-margin-top: 20px;
+margin-top: 30px;
+margin-bottom: 50px;
 }
 .chize-1{
 padding-top: 10px;
@@ -167,7 +154,149 @@ font-weight: 400;
 font-size: 15px;
 color: #FFFFFF;
 }
+
 /* ======================================================== */
 .var{
     text-align: center;
 }
+/* ======================================================== */
+.salad{
+width: 144px;
+height: 144px;
+background-color: #FFFFFF;
+}
+.homeS{
+color:  #FF7A50;
+}
+.home{
+margin-top:70px;
+font-weight: 500;
+font-size: 36px;
+color: #363853;
+margin-bottom: 30px;
+}
+.provide{
+color: #363853;
+font-weight: 400;
+font-size: 20px;
+}
+.fastCard{
+    display: flex;
+    align-items: start;
+    margin-bottom: 25px;
+}
+.fast{
+margin-left: 20px;
+font-weight: 400;
+font-size: 24px;
+color: #363853;
+margin-bottom: 14px;
+}
+.china{
+    width: 40.04px;
+height: 34px;
+}
+.more{
+margin-top: 30px;
+font-weight: 400;
+font-size: 20px;
+color: #FFFFFF;
+background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+border-radius: 30px 30px 1px 30px;
+padding: 17px 44px;
+border: none;
+}
+/* ======================================================== */
+.top{
+margin-top: 100px;
+text-align: center;
+font-weight: 500;
+font-size: 36px;
+color: #363853;
+}
+.topS{
+    color:  #FF7A50;
+}
+/* ======================================================== */
+.peperoni{
+ width: 361px;
+height: 299px;
+}
+.blaze{
+margin-top: 20px;
+font-weight: 400;
+font-size: 24px;
+color: #363853;
+margin-bottom: 10px;
+}
+.clockCard{
+    display: flex;
+    align-items: start;
+    justify-content: space-between;
+}
+.leftB{
+padding: 4px 20px;
+ background: #FF7A50;
+box-shadow: 0px 5px 12px rgba(255, 104, 56, 0.19);
+border-radius: 20px 20px 0px 20px;
+border: none;
+}
+.clock{
+    font-weight: 300;
+font-size: 18px;
+color: dimgrey;
+}
+.pizzaCard{
+    margin-top: 50px;
+}
+.all{
+font-weight: 400;
+font-size: 20px;
+color: #363853;
+margin-top: 30px;
+}
+.down{
+margin-top: 100px;
+font-weight: 500;
+font-size: 36px;
+font-weight: 500;
+font-size: 36px;
+color: #363853;
+}
+.downS{
+    color: #FF7A50;
+}
+.store2{
+    margin-left: 40px;
+}
+.marketing{
+    margin-top: 30px;
+}
+.hash{
+    width: 616.74px;
+height: 480.59px;
+}
+/* ======================================================== */
+.has{
+    font-weight: 400;
+font-size: 20px;
+margin-top: 60px;
+}
+.upwall{
+    margin-left: 50px;
+}
+.jole{
+    font-weight: 500;
+font-size: 20px;
+color: #FF7A50;
+margin-top: 60px;
+}
+.arrow1{
+    margin-left: 40px;
+}
+.food{
+    justify-content: space-between;
+    display: flex;
+}
+/* ======================================================== */
