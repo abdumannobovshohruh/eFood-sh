@@ -300,3 +300,62 @@ margin-top: 60px;
     display: flex;
 }
 /* ======================================================== */
+.get{
+    background: #FF7A50;
+    border-radius: 20px;
+}
+.off{
+margin-top: 50px;
+font-weight: 500;
+font-size: 40px;
+color: #FFFFFF;
+text-align: center;
+}
+.newPaper{
+margin-top: 10px;
+margin-bottom: 30px;
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+text-align: center;
+}
+.get_2{
+    text-align: center;
+}
+.enter{
+    margin-bottom: 50px;
+    margin-left: 100px;
+}
+.adres{
+    width: 838.5px;
+height: 78px;
+background: #FFFFFF;
+box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+border-radius: 70px;
+border: none;
+}
+::placeholder{
+    padding-left: 30px;
+}
+.tele{
+font-weight: 500;
+font-size: 20px;
+color: #FFFFFF;
+background: #FF7A50;
+border-radius: 70px;
+padding: 15px 40px;
+border: none;   
+position: relative;
+right: 210px;
+}
+/* ======================Footer================================== */
+footer{
+    margin-top: 70px;
+}
+.gpse{
+    width: 24px;
+height: 24px;
+}
+.gpsCard{
+    display: flex;
+}
